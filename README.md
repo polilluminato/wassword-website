@@ -1,54 +1,45 @@
-# Astro Starter Kit: Basics
+<div align="center">
+  <h1>Wassword Website</h1>
+  <p align="center">
+    <a href="https://www.apache.org/licenses/LICENSE-2.0.html"><img src="https://img.shields.io/badge/licence-Apache%202.0-yellow?style=for-the-badge"></a>
+    <a href="https://wassword.app"><img alt="Wassword Website" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  </p>
+</div>
+
+This is the repo for the [Wassword Website](https://wassword.app/) hosted on [Netlify](https://www.netlify.com/) and built with [Astro 2.0](https://astro.build/).
+
+## 📚 Docs
+
+To deploy the website on Netlify follow these guides:
+
+* [Docs from the starter project](docs/astro-readme.md)
+* [Install Astro with the Automatic CLI](https://docs.astro.build/en/install/auto/)
+* [Deploy your Astro Site to Netlify](https://docs.astro.build/en/guides/deploy/netlify/)
+* [How to deploy an Astro site](https://www.netlify.com/blog/how-to-deploy-astro/)
+* [This adapter allows Astro to deploy your SSR site to Netlify](https://docs.astro.build/en/guides/integrations-guide/netlify/)
+
+## 💎 Contributing
+
+If you have any idea, feel free to fork it and submit your changes back to me.
+
+## 📋 License
 
 ```
-npm create astro@latest -- --template basics
+Copyright 2023 Alberto Bonacina
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/withastro/astro/tree/latest/examples/basics)
+## 💙 Supporting
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
-
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                | Action                                           |
-| :--------------------- | :----------------------------------------------- |
-| `npm install`          | Installs dependencies                            |
-| `npm run dev`          | Starts local dev server at `localhost:3000`      |
-| `npm run build`        | Build your production site to `./dist/`          |
-| `npm run preview`      | Preview your build locally, before deploying     |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+If you are interested in my work and my open source contributions, please consider sponsoring me.
